@@ -1,4 +1,5 @@
 _repo: A-Bold-Stroke-for-a-Husband-A-Comedy-in-Five-Acts_47379
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Inchbald, Mrs.
@@ -8,12 +9,17 @@ contributor:
     gutenberg_agent_id: '1305'
     url: http://www.gutenberg.org/2009/agents/1305
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Inchbald
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cowley, Hannah
     gutenberg_agent_id: '44286'
     url: http://www.gutenberg.org/2009/agents/44286
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47379#A-Bold-Stroke-for-a-Husband-A-Comedy-in-Five-Acts
 gutenberg_issued: '2014-11-17'
 gutenberg_type: Text
 identifiers:
